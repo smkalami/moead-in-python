@@ -135,6 +135,8 @@ $$g^{ws}(x|\lambda) = \sum_{i=1}^{m} \lambda_i f_i(x)$$
 
 $$g^{te}(x|\lambda, z^{*}) = \max_i \lambda_i$$
 
+$$|f_i(x) - z_i^{*}|$$
+
 - **Pros**: Handles any Pareto front shape (convex, non-convex, disconnected)
 - **Cons**: Slightly more complex
 - **Use when**: General-purpose optimization (default choice)
