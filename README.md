@@ -133,7 +133,7 @@ $$g^{ws}(x|\lambda) = \sum_{i=1}^{m} \lambda_i f_i(x)$$
 
 #### 2. **Tchebycheff (Recommended)**
 
-$$g^{te}(x|\lambda, z^{*}) = \max_i \lambda_i |f_i(x) - z_i^{*}|$$
+$$g^{te}(x|\lambda, z^{*})$$
 
 - **Pros**: Handles any Pareto front shape (convex, non-convex, disconnected)
 - **Cons**: Slightly more complex
